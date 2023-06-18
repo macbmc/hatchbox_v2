@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485291468137",
+    "project_id": "hatchboxv2",
+    "storage_bucket": "hatchboxv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485291468137:android:fe2a78e8e4ed47172ac9f8",
+        "android_client_info": {
+          "package_name": "com.example.hatchbox_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485291468137-8oekrbpbd8qntn9lasv3cgafnhh70ii7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-u-PraY20C_OeXRH63clUko8P_CASKWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485291468137-8oekrbpbd8qntn9lasv3cgafnhh70ii7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
